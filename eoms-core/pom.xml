@@ -44,7 +44,7 @@
         <beetl.version>2.7.13</beetl.version>
 
         <!-- jdbc driver setting -->
-        <mysql.driver.version>5.1.30</mysql.driver.version>
+        <mysql.driver.version>8.0.16</mysql.driver.version>
         <quartz.version>2.2.1</quartz.version>
     </properties>
 
