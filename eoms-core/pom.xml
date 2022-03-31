@@ -17,7 +17,7 @@
 		<downloadSources>false</downloadSources>
 		
         <!-- main version setting -->
-        <spring.version>4.3.7.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <validator.version>5.1.1.Final</validator.version>
         <mybatis.version>3.4.2</mybatis.version>
         <mybatis-spring.version>1.3.0</mybatis-spring.version>
